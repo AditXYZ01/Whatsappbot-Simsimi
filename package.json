@@ -1,0 +1,28 @@
+{
+  "name": "Whatsappbot-Simsimi",
+  "version": "1.0.0",
+  "description": "Whatsapp Bot - Simsimi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Yaelahda",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaelahda/Whatsappbot-Simsimi"
+  },
+  "bugs": {
+    "url": "https://github.com/yaelahda/Whatsappbot-Simsimi/issues"
+  },
+  "homepage": "https://github.com/yaelahda/Whatsappbot-Simsimi",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.22.4",
+    "axios": "^0.21.1",
+    "delay": "^5.0.0",
+    "moment-timezone": "^0.5.33",
+    "node-fetch": "^2.6.1",
+    "node-gtts": "^2.0.2",
+    "urlencode": "^1.1.0"
+  }
+}
