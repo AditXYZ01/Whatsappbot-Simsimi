@@ -15,7 +15,7 @@ module.exports = options = (headless) => {
     }
 
     const options = {
-        sessionId: 'BOT_session',
+        sessionId: 'aqulzz',
         headless: true,
         qrTimeout: 0,
         authTimeout: 0,
